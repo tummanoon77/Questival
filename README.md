@@ -2,6 +2,7 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/aftongauntlett/questival)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/aftongauntlett/questival)
+![GitHub followers](https://img.shields.io/github/followers/tummanoon77?label=Follow%20Tummanoon&style=social)
 
 **Jira:** [Manage Group Tasks](https://kmtc.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=QA&selectedIssue=QA-90&atlOrigin=eyJpIjoiYzJiZDlkODk0NDY5NDJiNmE2ZGIyNDI5ZTQ1ZTY2NGMiLCJwIjoiaiJ9)
 
