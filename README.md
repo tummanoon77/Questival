@@ -8,7 +8,7 @@
 
 **Github Repo:**
 
- https://github.com/aftongauntlett/Questival
+ https://github.com/tummanoon77/Questival
 
 **Deployed:**
 
